@@ -24,4 +24,7 @@ Existing Git Repo?
   git remote add origin git@github.com:cyrilleroy/test2.git
   git push origin master
       
-insert from clone
+
+blabla
+new line from master
+insert from clone fixing conflict
